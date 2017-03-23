@@ -23,8 +23,8 @@
 -----------------
 
 #### 截图
-![enter image description here](https://github.com/gongsunqingyang/IMTest/blob/master/ScreenShot/IMG_0019.png)
+![enter image description here](https://github.com/gongsunqingyang/IMTest/blob/master/ScreenShot/IMG_0019.PNG)
 
-![enter image description here](https://github.com/gongsunqingyang/IMTest/blob/master/ScreenShot/IMG_0022.png)
+![enter image description here](https://github.com/gongsunqingyang/IMTest/blob/master/ScreenShot/IMG_0022.PNG)
 
-![enter image description here](https://github.com/gongsunqingyang/IMTest/blob/master/ScreenShot/IMG_0023.png)
+![enter image description here](https://github.com/gongsunqingyang/IMTest/blob/master/ScreenShot/IMG_0023.PNG)
