@@ -18,13 +18,13 @@
 
 #### 登录流程图
 
-![enter image description here](https://github.com/gongsunqingyang/IMTest/tree/master/ScreenShot/IMG_0019.PNG)
+![enter image description here](https://github.com/gongsunqingyang/IMTest/blob/master/ScreenShot/IMG_0024.png)
 
 -----------------
 
 #### 截图
-![enter image description here](https://github.com/gongsunqingyang/IMTest/tree/master/ScreenShot/IMG_0019.PNG)
+![enter image description here](https://github.com/gongsunqingyang/IMTest/blob/master/ScreenShot/IMG_0019.png)
 
-![enter image description here](https://github.com/gongsunqingyang/IMTest/tree/master/ScreenShot/IMG_0020.PNG)
+![enter image description here](https://github.com/gongsunqingyang/IMTest/blob/master/ScreenShot/IMG_0022.png)
 
-![enter image description here](https://github.com/gongsunqingyang/IMTest/tree/master/ScreenShot/IMG_0021.PNG)
+![enter image description here](https://github.com/gongsunqingyang/IMTest/blob/master/ScreenShot/IMG_0023.png)
